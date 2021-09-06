@@ -1,2 +1,3 @@
 # DiscordHackDocs
-通常では掲載されていないDiscordのAPIドキュメント
+通常では掲載されていないDiscordのAPIドキュメントです。
+イベント送信やメッセージの取得等ができるAPIです。
