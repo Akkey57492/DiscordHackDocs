@@ -1,0 +1,2 @@
+# DiscordHackDocs
+通常では掲載されていないDiscordのAPIドキュメント
